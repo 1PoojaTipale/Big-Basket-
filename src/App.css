@@ -1,0 +1,81 @@
+.myheading
+{
+    color: black;
+    margin:30px;
+}
+.my_card
+{
+    margin:30px;
+    background-color: red;
+    height: 200px;
+    border-radius: 50px;
+}
+
+.card_image
+{
+    height:200px;
+}
+.productInfoDiv
+{
+      height: 800px;
+}
+.productImage
+{
+      width: 50%;
+      height: 400px;
+      margin-top: 50px;
+}
+.secondDivProduct
+{
+    padding:50px;
+}
+.avoffer
+{
+    margin-top:20px;
+}
+.buyNowButton
+{
+    background-color: #84C225;
+    border-radius: 5px ;
+    color: white;
+    border: 1px;
+    font-weight: bold;
+    width: 150px;
+    padding: 5px;
+}
+.one
+{
+background-color:black;
+border-radius: 5px ;
+color:white;
+border: 1px;
+width:50px;
+padding: 5px;
+margin: 10px;
+
+}
+.save
+{
+background-color: black;
+border-radius: 5px ;
+color:white;
+border: 1px;
+width:50px;
+padding: 5px;
+margin: 10px;
+
+}
+ .capsium
+ {
+   font-family: sans-serif;
+ }
+.pc{
+    font-size: small;
+    font-family: sans-serif;
+}
+.mrp
+{
+    font-size:15px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
